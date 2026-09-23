@@ -1,2 +1,23 @@
 *.jpg
 *.csv
+# Python virtual environment
+backend/venv/
+
+
+
+# Environment variables
+.env
+.env.*
+
+# Node dependencies
+frontend/node_modules/
+
+# Frontend build
+
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
